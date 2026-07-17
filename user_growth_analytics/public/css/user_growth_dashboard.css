@@ -38,6 +38,7 @@
 	font-size: 28px;
 	letter-spacing: 0.08em;
 	font-weight: 700;
+	color: var(--ugd-text) !important;
 }
 
 .ugd-subtitle {
